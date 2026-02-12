@@ -1,0 +1,10 @@
+OrderID,Region,Sales,Profit
+1,East,200.0,20
+2,West,500.0,50
+3,North,1000.0,120
+4,South,300.0,30
+5,East,1766.6666666666667,25
+6,West,700.0,80
+8,South,400.0,40
+9,East,350.0,35
+10,West,450.0,45
